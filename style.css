@@ -1,0 +1,26 @@
+a {
+    display: inline-block;
+    text-decoration: none;
+    margin: 20px;
+}
+
+
+/* div {
+    background-image: url(./thumbnail.jpg);
+    background-size: contain;
+} */
+
+div.pink, div.blue {
+    width: 400px;
+    height: 400px;
+}
+
+.pink {
+    background-color: pink;
+    float: left;
+}
+
+.blue {
+    background-color: blue;
+    clear: left;
+}
